@@ -4,6 +4,10 @@
 
 This application will generate a SVG logo with the choice of shapes (circle, square, and triangle) and up to 3 characters text that can be any combination of valid colors.
 
+
+[Video Submission](https://www.youtube.com/watch?v=WKV2svnjp4k)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
